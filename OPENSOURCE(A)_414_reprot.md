@@ -106,5 +106,5 @@
 
 # 6. 시스템 DFD(Data Flow Diagram)
 
-![dfdver2](C:\Users\박인용\Desktop\dfdver2.png)
+![dfdver2](./img/dfdver2.png)
 
